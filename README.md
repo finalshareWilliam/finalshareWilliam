@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with software development.
 - 💬 Ask me about games and hardware.
 - 📫 How to reach me: william.h.souza@icloud.com and william.h.souza@hotmail.com.
-
+##
 <div align="center">
   <a href="https://github.com/finalshareWilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finalshareWilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
