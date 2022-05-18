@@ -5,8 +5,7 @@
 - 🤔 I’m looking for help with software development.
 - 💬 Ask me about games and hardware.
 - 📫 How to reach me: william.h.souza@icloud.com and william.h.souza@hotmail.com.
-- www.linkedin.com/in/william-henrique-souza-27a783193
-##
+
 <div align="center">
   <a href="https://github.com/finalshareWilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=finalshareWilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -31,7 +30,5 @@
 <div>
   
   <a href="https://www.linkedin.com/in/william-henrique-souza-27a783193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/finalshareWilliam/finalshareWilliam/blob/output/github-contribution-grid-snake.svg)
  
 </div>
