@@ -23,6 +23,7 @@
   <img align="center" alt="William-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="William-APPLE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
 
+    ##
     ![Snake animation](https://github.com/finalshareWilliam/finalshareWilliam/blob/output/github-contribution-grid-snake.svg)
     
 </div>
