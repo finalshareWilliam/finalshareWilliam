@@ -1,5 +1,5 @@
 ### Hi there 
-- My name is William Souza, I am a computer engineering student at the Federal University of Rio Grande, I seek to learn and develop software.  
+- My name is William Souza, I am a computer engineering at the Federal University of Rio Grande, I seek to learn and develop software.  
 - 🔭 I’m currently working on relational database.
 - 🌱 I'm currently learning software development.
 - 🤔 I’m looking for help with software development.
