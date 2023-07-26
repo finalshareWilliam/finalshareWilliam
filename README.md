@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=finalsharewilliam&show_icons=true&locale=en" alt="finalsharewilliam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=finalsharewilliam&" alt="finalsharewilliam" /></p>
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/finalshareWilliam/finalshareWilliam/blob/output/github-contribution-grid-snake.svg)
